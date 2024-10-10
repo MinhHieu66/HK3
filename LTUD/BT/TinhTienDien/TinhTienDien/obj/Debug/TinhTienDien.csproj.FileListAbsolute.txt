@@ -1,0 +1,10 @@
+D:\HK3\LTUD\BT\ListView\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.exe.config
+D:\HK3\LTUD\BT\ListView\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.exe
+D:\HK3\LTUD\BT\ListView\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.pdb
+D:\HK3\LTUD\BT\ListView\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.csproj.AssemblyReference.cache
+D:\HK3\LTUD\BT\ListView\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.FrmTienDien.resources
+D:\HK3\LTUD\BT\ListView\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.Properties.Resources.resources
+D:\HK3\LTUD\BT\ListView\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.csproj.GenerateResource.cache
+D:\HK3\LTUD\BT\ListView\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.csproj.CoreCompileInputs.cache
+D:\HK3\LTUD\BT\ListView\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.exe
+D:\HK3\LTUD\BT\ListView\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.pdb

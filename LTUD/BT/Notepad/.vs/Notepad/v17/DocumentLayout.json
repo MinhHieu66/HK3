@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK3\\LTUD\\Notepad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4F65-203D-4B04-85AB-BCD95966A32C}|Notepad\\Notepad.csproj|d:\\hk3\\ltud\\notepad\\notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9D4F65-203D-4B04-85AB-BCD95966A32C}|Notepad\\Notepad.csproj|solutionrelative:notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9D4F65-203D-4B04-85AB-BCD95966A32C}|Notepad\\Notepad.csproj|d:\\hk3\\ltud\\notepad\\notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE9D4F65-203D-4B04-85AB-BCD95966A32C}|Notepad\\Notepad.csproj|solutionrelative:notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\Notepad\\Notepad\\Form1.cs",
+              "RelativeDocumentMoniker": "Notepad\\Form1.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\Notepad\\Notepad\\Form1.cs",
+              "RelativeToolTip": "Notepad\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAASwGEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:35:09.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\Notepad\\Notepad\\Form1.cs",
+              "RelativeDocumentMoniker": "Notepad\\Form1.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\Notepad\\Notepad\\Form1.cs [Design]",
+              "RelativeToolTip": "Notepad\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:35:07.155Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\HK3\LTUD\BT\ListView QLSV\ListView QLSV\bin\Debug\ListView QLSV.exe.config
+D:\HK3\LTUD\BT\ListView QLSV\ListView QLSV\bin\Debug\ListView QLSV.exe
+D:\HK3\LTUD\BT\ListView QLSV\ListView QLSV\bin\Debug\ListView QLSV.pdb
+D:\HK3\LTUD\BT\ListView QLSV\ListView QLSV\obj\Debug\ListView QLSV.csproj.AssemblyReference.cache
+D:\HK3\LTUD\BT\ListView QLSV\ListView QLSV\obj\Debug\ListView_QLSV.Properties.Resources.resources
+D:\HK3\LTUD\BT\ListView QLSV\ListView QLSV\obj\Debug\ListView QLSV.csproj.GenerateResource.cache
+D:\HK3\LTUD\BT\ListView QLSV\ListView QLSV\obj\Debug\ListView QLSV.csproj.CoreCompileInputs.cache
+D:\HK3\LTUD\BT\ListView QLSV\ListView QLSV\obj\Debug\ListView QLSV.exe
+D:\HK3\LTUD\BT\ListView QLSV\ListView QLSV\obj\Debug\ListView QLSV.pdb
+D:\HK3\LTUD\BT\ListView QLSV\ListView QLSV\obj\Debug\ListView_QLSV.frmQLSV.resources

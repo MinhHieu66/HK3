@@ -1,0 +1,10 @@
+D:\HK3\LTUD\BT\ListView\ListView\bin\Debug\ListView.exe.config
+D:\HK3\LTUD\BT\ListView\ListView\bin\Debug\ListView.exe
+D:\HK3\LTUD\BT\ListView\ListView\bin\Debug\ListView.pdb
+D:\HK3\LTUD\BT\ListView\ListView\obj\Debug\ListView.csproj.AssemblyReference.cache
+D:\HK3\LTUD\BT\ListView\ListView\obj\Debug\ListView.Form1.resources
+D:\HK3\LTUD\BT\ListView\ListView\obj\Debug\ListView.Properties.Resources.resources
+D:\HK3\LTUD\BT\ListView\ListView\obj\Debug\ListView.csproj.GenerateResource.cache
+D:\HK3\LTUD\BT\ListView\ListView\obj\Debug\ListView.csproj.CoreCompileInputs.cache
+D:\HK3\LTUD\BT\ListView\ListView\obj\Debug\ListView.exe
+D:\HK3\LTUD\BT\ListView\ListView\obj\Debug\ListView.pdb
