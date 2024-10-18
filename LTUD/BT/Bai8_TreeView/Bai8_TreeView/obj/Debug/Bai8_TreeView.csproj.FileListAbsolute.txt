@@ -1,0 +1,10 @@
+D:\HK3\LTUD\BT\Bai8_TreeView\Bai8_TreeView\bin\Debug\Bai8_TreeView.exe.config
+D:\HK3\LTUD\BT\Bai8_TreeView\Bai8_TreeView\bin\Debug\Bai8_TreeView.exe
+D:\HK3\LTUD\BT\Bai8_TreeView\Bai8_TreeView\bin\Debug\Bai8_TreeView.pdb
+D:\HK3\LTUD\BT\Bai8_TreeView\Bai8_TreeView\obj\Debug\Bai8_TreeView.csproj.AssemblyReference.cache
+D:\HK3\LTUD\BT\Bai8_TreeView\Bai8_TreeView\obj\Debug\Bai8_TreeView.frmBai8_TV.resources
+D:\HK3\LTUD\BT\Bai8_TreeView\Bai8_TreeView\obj\Debug\Bai8_TreeView.Properties.Resources.resources
+D:\HK3\LTUD\BT\Bai8_TreeView\Bai8_TreeView\obj\Debug\Bai8_TreeView.csproj.GenerateResource.cache
+D:\HK3\LTUD\BT\Bai8_TreeView\Bai8_TreeView\obj\Debug\Bai8_TreeView.csproj.CoreCompileInputs.cache
+D:\HK3\LTUD\BT\Bai8_TreeView\Bai8_TreeView\obj\Debug\Bai8_TreeView.exe
+D:\HK3\LTUD\BT\Bai8_TreeView\Bai8_TreeView\obj\Debug\Bai8_TreeView.pdb
