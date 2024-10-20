@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="vendor/bootstrap-5.0.2-dist/css/bootstrap.min.css"
+    />
+    <title>Bai 3</title>
+  </head>
+  <body>
+    <div class="row mt-3">
+      <div class="col-md-6 m-auto rounded-3 border">
+        <form action="bai3_result.php" method="GET">
+          <h2 class="text-center mb-5">PHÉP TÍNH</h2>
+          <div class="row mb-3">
+            <div class="col-md-2">
+              <label for="number1">Số thứ 1:</label>
+            </div>
+            <div class="col-md-10">
+              <input
+                type="number"
+                name="number1"
+                id="number1"
+                class="form-control"
+              />
+            </div>
+          </div>
+          <div class="row mb-3">
+            <div class="col-md-2">
+              <label for="number2">Số thứ 2:</label>
+            </div>
+            <div class="col-md-10">
+              <input
+                type="number"
+                name="number2"
+                id="number2"
+                class="form-control"
+              />
+            </div>
+          </div>
+          <div class="row mb-3">
+            <p>Chọn phép tính:</p>
+          </div>
+          <div class="row mb-3">
+            <div class="col-md-3">
+              <input
+                type="radio"
+                id="addition"
+                name="calculations"
+                checked
+                value="+"
+              />
+              <label for="addition">Cộng</label>
+            </div>
+            <div class="col-md-3">
+              <input
+                type="radio"
+                id="subtraction"
+                name="calculations"
+                value="-"
+              />
+              <label for="subtraction">Trừ</label>
+            </div>
+            <div class="col-md-3">
+              <input
+                type="radio"
+                id="multiplication"
+                name="calculations"
+                value="*"
+              />
+              <label for="multiplication">Nhân</label>
+            </div>
+            <div class="col-md-3">
+              <input type="radio" id="division" name="calculations" value="/" />
+              <label for="division">Chia</label>
+            </div>
+          </div>
+          <button type="submit" class="btn btn-danger mb-2">Submit</button>
+        </form>
+      </div>
+    </div>
+    <script src="vendor/bootstrap-5.0.2-dist/js/bootstrap.min.js"></script>
+  </body>
+</html>
