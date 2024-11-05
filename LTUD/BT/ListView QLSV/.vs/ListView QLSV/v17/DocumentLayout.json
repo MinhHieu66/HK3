@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HK3\\LTUD\\BT\\ListView QLSV\\",
+  "WorkspaceRootPath": "D:\\GIT\\HK3\\LTUD\\BT\\ListView QLSV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E7A8FE4-D44D-4E2B-BF73-819E5640057D}|ListView QLSV\\ListView QLSV.csproj|d:\\hk3\\ltud\\bt\\listview qlsv\\listview qlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9E7A8FE4-D44D-4E2B-BF73-819E5640057D}|ListView QLSV\\ListView QLSV.csproj|d:\\git\\hk3\\ltud\\bt\\listview qlsv\\listview qlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7A8FE4-D44D-4E2B-BF73-819E5640057D}|ListView QLSV\\ListView QLSV.csproj|solutionrelative:listview qlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7A8FE4-D44D-4E2B-BF73-819E5640057D}|ListView QLSV\\ListView QLSV.csproj|d:\\git\\hk3\\ltud\\bt\\listview qlsv\\listview qlsv\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9E7A8FE4-D44D-4E2B-BF73-819E5640057D}|ListView QLSV\\ListView QLSV.csproj|solutionrelative:listview qlsv\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7A8FE4-D44D-4E2B-BF73-819E5640057D}|ListView QLSV\\ListView QLSV.csproj|D:\\GIT\\HK3\\LTUD\\BT\\ListView QLSV\\listview qlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9E7A8FE4-D44D-4E2B-BF73-819E5640057D}|ListView QLSV\\ListView QLSV.csproj|solutionrelative:listview qlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E7A8FE4-D44D-4E2B-BF73-819E5640057D}|ListView QLSV\\ListView QLSV.csproj|D:\\HK3\\LTUD\\BT\\ListView QLSV\\listview qlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E7A8FE4-D44D-4E2B-BF73-819E5640057D}|ListView QLSV\\ListView QLSV.csproj|D:\\GIT\\HK3\\LTUD\\BT\\ListView QLSV\\listview qlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E7A8FE4-D44D-4E2B-BF73-819E5640057D}|ListView QLSV\\ListView QLSV.csproj|solutionrelative:listview qlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -21,29 +29,57 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\HK3\\LTUD\\BT\\ListView QLSV\\ListView QLSV\\Form1.cs",
-              "RelativeDocumentMoniker": "ListView QLSV\\Form1.cs",
-              "ToolTip": "D:\\HK3\\LTUD\\BT\\ListView QLSV\\ListView QLSV\\Form1.cs",
-              "RelativeToolTip": "ListView QLSV\\Form1.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAUwJgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T06:37:39.194Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\HK3\\LTUD\\BT\\ListView QLSV\\ListView QLSV\\Form1.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIT\\HK3\\LTUD\\BT\\ListView QLSV\\ListView QLSV\\Program.cs",
+              "RelativeDocumentMoniker": "ListView QLSV\\Program.cs",
+              "ToolTip": "D:\\GIT\\HK3\\LTUD\\BT\\ListView QLSV\\ListView QLSV\\Program.cs",
+              "RelativeToolTip": "ListView QLSV\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:05:58.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\GIT\\HK3\\LTUD\\BT\\ListView QLSV\\ListView QLSV\\App.config",
+              "RelativeDocumentMoniker": "ListView QLSV\\App.config",
+              "ToolTip": "D:\\GIT\\HK3\\LTUD\\BT\\ListView QLSV\\ListView QLSV\\App.config",
+              "RelativeToolTip": "ListView QLSV\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-19T02:32:01.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GIT\\HK3\\LTUD\\BT\\ListView QLSV\\ListView QLSV\\Form1.cs",
               "RelativeDocumentMoniker": "ListView QLSV\\Form1.cs",
-              "ToolTip": "D:\\HK3\\LTUD\\BT\\ListView QLSV\\ListView QLSV\\Form1.cs [Design]",
+              "ToolTip": "D:\\GIT\\HK3\\LTUD\\BT\\ListView QLSV\\ListView QLSV\\Form1.cs",
+              "RelativeToolTip": "ListView QLSV\\Form1.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAUwJgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:37:39.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GIT\\HK3\\LTUD\\BT\\ListView QLSV\\ListView QLSV\\Form1.cs",
+              "RelativeDocumentMoniker": "ListView QLSV\\Form1.cs",
+              "ToolTip": "D:\\GIT\\HK3\\LTUD\\BT\\ListView QLSV\\ListView QLSV\\Form1.cs [Design]",
               "RelativeToolTip": "ListView QLSV\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T06:36:18.448Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-10T06:36:18.448Z"
             }
           ]
         }
