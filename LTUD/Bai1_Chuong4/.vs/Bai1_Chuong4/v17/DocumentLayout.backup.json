@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK3\\LTUD\\Bai1_Chuong4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFAB308-CEF5-44AF-92F6-E1617C4651A9}|Bai1_Chuong4\\Bai1_Chuong4.csproj|d:\\hk3\\ltud\\bai1_chuong4\\bai1_chuong4\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFAB308-CEF5-44AF-92F6-E1617C4651A9}|Bai1_Chuong4\\Bai1_Chuong4.csproj|solutionrelative:bai1_chuong4\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFAB308-CEF5-44AF-92F6-E1617C4651A9}|Bai1_Chuong4\\Bai1_Chuong4.csproj|D:\\HK3\\LTUD\\Bai1_Chuong4\\bai1_chuong4\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCFAB308-CEF5-44AF-92F6-E1617C4651A9}|Bai1_Chuong4\\Bai1_Chuong4.csproj|solutionrelative:bai1_chuong4\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFAB308-CEF5-44AF-92F6-E1617C4651A9}|Bai1_Chuong4\\Bai1_Chuong4.csproj|d:\\hk3\\ltud\\bai1_chuong4\\bai1_chuong4\\frmketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFAB308-CEF5-44AF-92F6-E1617C4651A9}|Bai1_Chuong4\\Bai1_Chuong4.csproj|solutionrelative:bai1_chuong4\\frmketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFAB308-CEF5-44AF-92F6-E1617C4651A9}|Bai1_Chuong4\\Bai1_Chuong4.csproj|d:\\hk3\\ltud\\bai1_chuong4\\bai1_chuong4\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFAB308-CEF5-44AF-92F6-E1617C4651A9}|Bai1_Chuong4\\Bai1_Chuong4.csproj|solutionrelative:bai1_chuong4\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFAB308-CEF5-44AF-92F6-E1617C4651A9}|Bai1_Chuong4\\Bai1_Chuong4.csproj|d:\\hk3\\ltud\\bai1_chuong4\\bai1_chuong4\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCFAB308-CEF5-44AF-92F6-E1617C4651A9}|Bai1_Chuong4\\Bai1_Chuong4.csproj|solutionrelative:bai1_chuong4\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFAB308-CEF5-44AF-92F6-E1617C4651A9}|Bai1_Chuong4\\Bai1_Chuong4.csproj|D:\\HK3\\LTUD\\Bai1_Chuong4\\bai1_chuong4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFAB308-CEF5-44AF-92F6-E1617C4651A9}|Bai1_Chuong4\\Bai1_Chuong4.csproj|solutionrelative:bai1_chuong4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\Bai1_Chuong4\\Bai1_Chuong4\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1_Chuong4\\Program.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\Bai1_Chuong4\\Bai1_Chuong4\\Program.cs",
+              "RelativeToolTip": "Bai1_Chuong4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:46:49.02Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmKetQua.cs",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\Bai1_Chuong4\\Bai1_Chuong4\\frmKetQua.cs",
+              "RelativeDocumentMoniker": "Bai1_Chuong4\\frmKetQua.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\Bai1_Chuong4\\Bai1_Chuong4\\frmKetQua.cs",
+              "RelativeToolTip": "Bai1_Chuong4\\frmKetQua.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAhwNMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:16:40.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\Bai1_Chuong4\\Bai1_Chuong4\\frmMain.cs",
+              "RelativeDocumentMoniker": "Bai1_Chuong4\\frmMain.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\Bai1_Chuong4\\Bai1_Chuong4\\frmMain.cs",
+              "RelativeToolTip": "Bai1_Chuong4\\frmMain.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAawC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:12:50.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\Bai1_Chuong4\\Bai1_Chuong4\\frmMain.cs",
+              "RelativeDocumentMoniker": "Bai1_Chuong4\\frmMain.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\Bai1_Chuong4\\Bai1_Chuong4\\frmMain.cs [Design]",
+              "RelativeToolTip": "Bai1_Chuong4\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:11:32.457Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTimKiem.cs",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\Bai1_Chuong4\\Bai1_Chuong4\\frmTimKiem.cs",
+              "RelativeDocumentMoniker": "Bai1_Chuong4\\frmTimKiem.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\Bai1_Chuong4\\Bai1_Chuong4\\frmTimKiem.cs",
+              "RelativeToolTip": "Bai1_Chuong4\\frmTimKiem.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAhwF4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:01:18.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTimKiem.cs [Design]",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\Bai1_Chuong4\\Bai1_Chuong4\\frmTimKiem.cs",
+              "RelativeDocumentMoniker": "Bai1_Chuong4\\frmTimKiem.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\Bai1_Chuong4\\Bai1_Chuong4\\frmTimKiem.cs [Design]",
+              "RelativeToolTip": "Bai1_Chuong4\\frmTimKiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:58:11.643Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

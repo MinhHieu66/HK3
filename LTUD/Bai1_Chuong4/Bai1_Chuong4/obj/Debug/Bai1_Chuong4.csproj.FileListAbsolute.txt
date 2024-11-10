@@ -1,0 +1,15 @@
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\bin\Debug\Bai1_Chuong4.exe.config
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\bin\Debug\Bai1_Chuong4.exe
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\bin\Debug\Bai1_Chuong4.pdb
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\obj\Debug\Bai1_Chuong4.csproj.AssemblyReference.cache
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\obj\Debug\Bai1_Chuong4.frmKhoa.resources
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\obj\Debug\Bai1_Chuong4.Properties.Resources.resources
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\obj\Debug\Bai1_Chuong4.csproj.GenerateResource.cache
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\obj\Debug\Bai1_Chuong4.csproj.CoreCompileInputs.cache
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\obj\Debug\Bai1_Chuong4.exe
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\obj\Debug\Bai1_Chuong4.pdb
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\obj\Debug\Bai1_Chuong4.frmMonHoc.resources
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\obj\Debug\Bai1_Chuong4.frmSinhVien.resources
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\obj\Debug\Bai1_Chuong4.frmKetQua.resources
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\obj\Debug\Bai1_Chuong4.frmTimKiem.resources
+D:\HK3\LTUD\Bai1_Chuong4\Bai1_Chuong4\obj\Debug\Bai1_Chuong4.frmMain.resources
