@@ -1,0 +1,11 @@
+D:\HK3\LTUD\QLSV_MoHinh3Lop\BUS_QLSV\bin\Debug\BUS_QLSV.dll
+D:\HK3\LTUD\QLSV_MoHinh3Lop\BUS_QLSV\bin\Debug\BUS_QLSV.pdb
+D:\HK3\LTUD\QLSV_MoHinh3Lop\BUS_QLSV\obj\Debug\BUS_QLSV.csproj.AssemblyReference.cache
+D:\HK3\LTUD\QLSV_MoHinh3Lop\BUS_QLSV\obj\Debug\BUS_QLSV.csproj.CoreCompileInputs.cache
+D:\HK3\LTUD\QLSV_MoHinh3Lop\BUS_QLSV\obj\Debug\BUS_QLSV.dll
+D:\HK3\LTUD\QLSV_MoHinh3Lop\BUS_QLSV\obj\Debug\BUS_QLSV.pdb
+D:\HK3\LTUD\QLSV_MoHinh3Lop\BUS_QLSV\bin\Debug\DAL_QLSV.dll
+D:\HK3\LTUD\QLSV_MoHinh3Lop\BUS_QLSV\bin\Debug\ET_QLSV.dll
+D:\HK3\LTUD\QLSV_MoHinh3Lop\BUS_QLSV\bin\Debug\DAL_QLSV.pdb
+D:\HK3\LTUD\QLSV_MoHinh3Lop\BUS_QLSV\bin\Debug\ET_QLSV.pdb
+D:\HK3\LTUD\QLSV_MoHinh3Lop\BUS_QLSV\obj\Debug\BUS_QLSV.csproj.Up2Date

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32B6C36F-9F61-40D8-B480-685FDFE7900B}|QLBHMoHinh3Lop\\GUI.csproj|d:\\hk3\\ltud\\qlbhmohinh3lop\\qlbhmohinh3lop\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B6C36F-9F61-40D8-B480-685FDFE7900B}|QLBHMoHinh3Lop\\GUI.csproj|solutionrelative:qlbhmohinh3lop\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B6C36F-9F61-40D8-B480-685FDFE7900B}|QLBHMoHinh3Lop\\GUI.csproj|d:\\hk3\\ltud\\qlbhmohinh3lop\\qlbhmohinh3lop\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32B6C36F-9F61-40D8-B480-685FDFE7900B}|QLBHMoHinh3Lop\\GUI.csproj|solutionrelative:qlbhmohinh3lop\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8261BDA5-507E-4F9D-BFE9-8AE59AD45017}|BUS\\BUS.csproj|d:\\hk3\\ltud\\qlbhmohinh3lop\\bus\\bus_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8261BDA5-507E-4F9D-BFE9-8AE59AD45017}|BUS\\BUS.csproj|solutionrelative:bus\\bus_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8261BDA5-507E-4F9D-BFE9-8AE59AD45017}|BUS\\BUS.csproj|D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\bus\\bus_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8261BDA5-507E-4F9D-BFE9-8AE59AD45017}|BUS\\BUS.csproj|solutionrelative:bus\\bus_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51D0087-54EC-4081-87ED-62B767756418}|DAL\\DAL.csproj|d:\\hk3\\ltud\\qlbhmohinh3lop\\dal\\dal_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51D0087-54EC-4081-87ED-62B767756418}|DAL\\DAL.csproj|solutionrelative:dal\\dal_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B6C36F-9F61-40D8-B480-685FDFE7900B}|QLBHMoHinh3Lop\\GUI.csproj|d:\\hk3\\ltud\\qlbhmohinh3lop\\qlbhmohinh3lop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B6C36F-9F61-40D8-B480-685FDFE7900B}|QLBHMoHinh3Lop\\GUI.csproj|solutionrelative:qlbhmohinh3lop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BUS_SanPham.cs",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\BUS\\BUS_SanPham.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_SanPham.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\BUS\\BUS_SanPham.cs",
+              "RelativeToolTip": "BUS\\BUS_SanPham.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:51:08.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BUS_KhachHang.cs",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\BUS\\BUS_KhachHang.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_KhachHang.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\BUS\\BUS_KhachHang.cs",
+              "RelativeToolTip": "BUS\\BUS_KhachHang.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:12:52.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAL_KhachHang.cs",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\DAL\\DAL_KhachHang.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_KhachHang.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\DAL\\DAL_KhachHang.cs",
+              "RelativeToolTip": "DAL\\DAL_KhachHang.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwJUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:08:20.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTimKiem.cs",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\QLBHMoHinh3Lop\\frmTimKiem.cs",
+              "RelativeDocumentMoniker": "QLBHMoHinh3Lop\\frmTimKiem.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\QLBHMoHinh3Lop\\frmTimKiem.cs",
+              "RelativeToolTip": "QLBHMoHinh3Lop\\frmTimKiem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwB0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:07:22.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTimKiem.cs [Design]",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\QLBHMoHinh3Lop\\frmTimKiem.cs",
+              "RelativeDocumentMoniker": "QLBHMoHinh3Lop\\frmTimKiem.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\QLBHMoHinh3Lop\\frmTimKiem.cs [Design]",
+              "RelativeToolTip": "QLBHMoHinh3Lop\\frmTimKiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:03:55.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\QLBHMoHinh3Lop\\Program.cs",
+              "RelativeDocumentMoniker": "QLBHMoHinh3Lop\\Program.cs",
+              "ToolTip": "D:\\HK3\\LTUD\\QLBHMoHinh3Lop\\QLBHMoHinh3Lop\\Program.cs",
+              "RelativeToolTip": "QLBHMoHinh3Lop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:10:55.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+D:\HK3\LTUD\QLSV_MoHinh3Lop\ET_QLSV\bin\Debug\ET_QLSV.dll
+D:\HK3\LTUD\QLSV_MoHinh3Lop\ET_QLSV\bin\Debug\ET_QLSV.pdb
+D:\HK3\LTUD\QLSV_MoHinh3Lop\ET_QLSV\obj\Debug\ET_QLSV.csproj.AssemblyReference.cache
+D:\HK3\LTUD\QLSV_MoHinh3Lop\ET_QLSV\obj\Debug\ET_QLSV.csproj.CoreCompileInputs.cache
+D:\HK3\LTUD\QLSV_MoHinh3Lop\ET_QLSV\obj\Debug\ET_QLSV.dll
+D:\HK3\LTUD\QLSV_MoHinh3Lop\ET_QLSV\obj\Debug\ET_QLSV.pdb
