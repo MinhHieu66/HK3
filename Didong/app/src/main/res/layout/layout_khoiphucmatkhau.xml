@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvDangKy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="KHÔI PHỤC MẬT KHẨU"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_marginTop="200dp"/>
+
+    <TextView
+        android:id="@+id/tvKhoiPhucMatKhau"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vui lòng nhập Email bên dưới để khôi phục mật khẩu"
+        android:textSize="15dp"
+        android:gravity="center"
+        android:layout_marginTop="15dp"/>
+
+    <EditText
+        android:id="@+id/edtEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="35dp"/>
+
+    <Button
+        android:id="@+id/btnGuiEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gửi Email"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="40dp"/>
+
+</LinearLayout>
